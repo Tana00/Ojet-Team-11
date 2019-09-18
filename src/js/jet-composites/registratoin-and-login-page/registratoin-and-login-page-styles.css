@@ -1,0 +1,8 @@
+registratoin-and-login-page:not(.oj-complete){
+  visibility: hidden;
+}
+
+registratoin-and-login-page{
+	min-height: 50px;
+	width: 50px;
+}
